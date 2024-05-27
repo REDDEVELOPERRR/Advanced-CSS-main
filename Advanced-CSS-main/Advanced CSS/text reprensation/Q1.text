@@ -1,0 +1,4 @@
+
+The var() function in CSS is used for defining custom properties (also known as CSS variables) and referencing them throughout your stylesheet. This helps in maintaining consistency and allows for easy theme customization by centralizing values that might be used repeatedly, such as colors, font sizes, or spacing.
+
+Here's how you can use the var() function to set background colors for your buttons using the custom properties you mentioned:
